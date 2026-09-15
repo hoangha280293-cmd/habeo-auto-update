@@ -1,1 +1,5 @@
-
+{
+  "version": "2.1.0",
+  "download_url": "https://raw.githubusercontent.com/hoangha280293-cmd/habeo-auto-update/main/test.zip",
+  "changelog": "- Sửa lỗi map Dương Trung Động\n- Tối ưu CPU khi chạy nhiều tab\n- Thêm tính năng tự động cập nhật"
+}
